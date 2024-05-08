@@ -1,4 +1,6 @@
 # FastAPI Streaming
+* OS
+    * ubuntu ( amd64 )
 * Preparing
     ```bash
     pip install fastapi uvicorn[standard] opencv-python-headless
